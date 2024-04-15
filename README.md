@@ -71,6 +71,12 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 
 ## STM 32 CUBE PROGRAM :
+```
+NAME : NISHA.D
+REG NO : 212223230143
+```
+```
+C
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
@@ -301,22 +307,22 @@ void assert_failed(uint8_t *file, uint32_t line)
      ex: printf("Wrong parameters value: file %s on line %d\r\n", file, line) */
   /* USER CODE END 6 */
 }
-#endif /* USE_FULL_ASSERT */
+#endif /* USE_FULL_ASSERT */
 
-
+```
 
 
 ## Output screen shots of proteus  :
 
-![image](https://github.com/Nishadayalan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/144870468/18a8ba5c-719a-4456-bec6-db0faf0b051f)
+![image](https://github.com/Nishadayalan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/144870468/4e7405c8-b7aa-4428-bfc0-e257d345777b)
 
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
- 
- ![image](https://github.com/Nishadayalan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/144870468/e026aba4-2868-420c-bfee-acc1014e5c69)
 
- 
+
+![image](https://github.com/Nishadayalan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/144870468/5476f09a-c3b6-42d1-9b2c-a6a9d6a5bdb8)
+
  
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
